@@ -5,3 +5,4 @@ Task 3: A script that displays the current directory contents in a long format.<
 Task 4: A script that displays the current directory contents including hidden files.</br>
 Task 5: A script that displays the current directory contents, using long format, while displaying group IDs in numeral and show hidden files.</br>
 Task 6: A script that will create a directory named my_first_directory in the /tmp/ directory.</br>
+Task 7: A script that will move a file called betty from home to the new directory created above.</br>
