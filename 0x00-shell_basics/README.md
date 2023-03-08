@@ -18,10 +18,10 @@ Task 16: A script that deletes all files in the current working directory that e
 Task 17: A script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.</br>
 Task 18: A command that lists all the files and directories of the current directory, separated by commas (,).
 
-1. Directory names should end with a slash (/)
-2. Files and directories starting with a dot (.) should be listed
-3. The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning
-4. Only digits and letters are used to sort; Digits should come first
-5. You can assume that all the files we will test with will have at least one letter or one digit
-6. The listing should end with a new line </br>
+            1. Directory names should end with a slash (/)
+            2. Files and directories starting with a dot (.) should be listed
+            3. The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning
+            4. Only digits and letters are used to sort; Digits should come first
+            5. You can assume that all the files we will test with will have at least one letter or one digit
+            6. The listing should end with a new line </br>
 Task 19: A script to Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.</br>
