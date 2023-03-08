@@ -24,3 +24,4 @@ Task 18: A command that lists all the files and directories of the current direc
 4. Only digits and letters are used to sort; Digits should come first
 5. You can assume that all the files we will test with will have at least one letter or one digit
 6. The listing should end with a new line </br>
+Task 19: A script to Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.</br>
