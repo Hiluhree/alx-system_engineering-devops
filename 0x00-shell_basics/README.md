@@ -9,3 +9,4 @@ Task 7: A script that will move a file called betty from home to the new directo
 Task 8: A script that will delete file betty from the new location.</br>
 Task 9: A script that will delete the directory my_first_directory that is in the /tmp/ directory path.</br>
 Task 10: A script that will Change working directory to the previous one.</br>
+Task 11: A script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.</br>
