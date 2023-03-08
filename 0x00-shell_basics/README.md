@@ -1,4 +1,4 @@
-Task 0: A script that prints the absolute path of the current working directory.</br>
+[Task 0](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory): A script that prints the absolute path of the current working directory.</br>
 Task 1: A script that displays the contents of your current directory. </br>
 Task 2: A script that changes the working directory to the user's home directory.</br>
 Task 3: A script that displays the current directory contents in a long format.</br>
