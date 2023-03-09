@@ -22,3 +22,4 @@
 [Task 13](): A script that changes the group owner to school for the file hello. </br>
 [Task 14(100)](): A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.</br>
 [Task 15(101)](): A script that changes the owner and the group owner of _hello to vincent and staff respectively_.</b>
+[Task 16(102)](): A script that changes the owner of the file hello to betty only if it is owned by the user guillaume.</br>
