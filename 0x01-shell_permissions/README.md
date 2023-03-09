@@ -14,4 +14,5 @@
 		i. Owner: no permission at all
 		ii. Group: no permission at all
 		iii. Other users: all the permissions
-	The file hello will be in the working directory You are not allowed to use commas for this script.</br>
+	The file hello will be in the working directory You are not allowed to use commas for this script.
+[Task 9]():A script that sets the mode of the file hello; where owner has all the permissions set, group owner has execute permissions set and others have only write and read permissions set.</br>
