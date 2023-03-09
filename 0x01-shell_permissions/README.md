@@ -15,4 +15,5 @@
 		ii. Group: no permission at all
 		iii. Other users: all the permissions
 	The file hello will be in the working directory You are not allowed to use commas for this script.
-[Task 9]():A script that sets the mode of the file hello; where owner has all the permissions set, group owner has execute permissions set and others have only write and read permissions set.</br>
+[Task 9](): A script that sets the mode of the file hello; where owner has all the permissions set, group owner has execute permissions set and others have only write and read permissions set.</br>
+[Task 10](): Write a script that sets the mode of the file hello the same as olleh’s mode. Note: the mode of olleh will not always be 664. Make sure your script works for any mode. </br>
