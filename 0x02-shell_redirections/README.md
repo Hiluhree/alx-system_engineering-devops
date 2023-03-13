@@ -19,23 +19,22 @@ Shell Redirections</br>
 	ii. Hidden directories should be counted
 		Solution: mindepth 1 ; To exclude root directory
 		Others: maxdepth 1 ; To avoid parsing sub directories. (you may need this in future.)
-</br>
-[Task 12: What’s new]():A script that displays the 10 newest files in the current directory.
+
+[Task 12: What’s new]():A script that displays the 10 newest files in the current directory.</br>
+
 
 	Requirements:
 
 	One file per line
 	Sorted from the newest to the oldest
-</br>
-[Task 13:  Being unique is better than being perfect](): A script that takes a list of words as input and prints only words that appear exactly once.
+
+[Task 13:  Being unique is better than being perfect](): A script that takes a list of words as input and prints only words that appear exactly once.</br>
 
 	Input format: One line, one word
 	Output format: One line, one word
 	Words should be sorted
-</br>
 [Task 14: It must be in that file](): A script to Display lines containing the pattern “root” from the file /etc/passwd.</br>
 [Task 15: Count that word](): A script to Display the number of lines that contain the pattern “bin” in the file /etc/passwd</br>
-[Task 16: What's next?](): A script  Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+[Task 16: What's next?](): A script  Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.</br>
 	B : This shows the lines before your pattern match.
 	A : This shows the lines after your pattern match.
-</br>
