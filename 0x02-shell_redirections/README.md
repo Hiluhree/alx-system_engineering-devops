@@ -39,6 +39,7 @@ Shell Redirections</br>
 	B : This shows the lines before your pattern match.
 	A : This shows the lines after your pattern match.
 [Task 17: I hate bins](): A script Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.</br>
-[Task 18: Letters only please](): A script Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+[Task 18: Letters only please](): A script to Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
 include capital letters as well </br>
+[Task 19: A to Z](): A script to Replace all characters A and c from input to Z and e respectively.</br>
