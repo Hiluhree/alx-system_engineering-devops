@@ -35,3 +35,7 @@ Shell Redirections</br>
 </br>
 [Task 14: It must be in that file](): A script to Display lines containing the pattern “root” from the file /etc/passwd.</br>
 [Task 15: Count that word](): A script to Display the number of lines that contain the pattern “bin” in the file /etc/passwd</br>
+[Task 16: What's next?](): A script  Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+	B : This shows the lines before your pattern match.
+	A : This shows the lines after your pattern match.
+</br>
