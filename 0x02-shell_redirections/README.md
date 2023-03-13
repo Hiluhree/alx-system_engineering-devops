@@ -28,7 +28,7 @@ Shell Redirections</br>
 	One file per line
 	Sorted from the newest to the oldest
 
-[Task 13:  Being unique is better than being perfect](): A script that takes a list of words as input and prints only words that appear exactly once.</br>
+[Task 13: Being unique is better than being perfect](): A script that takes a list of words as input and prints only words that appear exactly once.</br>
 
 	Input format: One line, one word
 	Output format: One line, one word
@@ -43,5 +43,8 @@ Shell Redirections</br>
 
 include capital letters as well </br>
 [Task 19: A to Z](): A script to Replace all characters A and c from input to Z and e respectively.</br>
-[Task 20:  Without C, you would live in hiago](): A script that removes all letters c and C from input.</br>
+[Task 20: Without C, you would live in hiago](): A script that removes all letters c and C from input.</br>
 [Task 21: esreveR](): A script that reverse its input</br>
+[Task 22: DJ Cut Killer](): A script that displays all users and their home directories, sorted by users.
+
+Based on the the /etc/passwd file </br>
