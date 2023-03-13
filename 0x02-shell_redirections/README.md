@@ -38,3 +38,4 @@ Shell Redirections</br>
 [Task 16: What's next?](): A script  Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.</br>
 	B : This shows the lines before your pattern match.
 	A : This shows the lines after your pattern match.
+[Task 17: I hate bins](): A script Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.</br>
