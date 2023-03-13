@@ -13,6 +13,7 @@ Shell Redirections</br>
 [Task 11: Don't just count your directories, make your directories count](): A script that counts the number of directories and sub-directories in the current directory.</br>
 	i. The current and parent directories should not be taken into account
 	ii. Hidden directories should be counted
+</br>
 [Task 12: What’s new]():A script that displays the 10 newest files in the current directory.
 
 	Requirements:
