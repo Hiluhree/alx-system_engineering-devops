@@ -43,3 +43,4 @@ Shell Redirections</br>
 
 include capital letters as well </br>
 [Task 19: A to Z](): A script to Replace all characters A and c from input to Z and e respectively.</br>
+[Task 20:  Without C, you would live in hiago](): A script that removes all letters c and C from input.</br>
