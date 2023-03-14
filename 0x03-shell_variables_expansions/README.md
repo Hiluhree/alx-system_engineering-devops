@@ -49,3 +49,4 @@ The number will be stored in the environment variable NUM.</br>
 The number in base 10 is stored in the environment variable DECIMAL
 The script should display the number in base 16, followed by a new line</br>
 [Task 15: Everyone is a proponent of strong encryption](): A script that encodes and decodes text using the rot13 encryption. Assume ASCII.</br>
+[Task 16: The eggs of the brood need to be an odd number](): A script that prints every other line from the input, starting with the first line.</br>
