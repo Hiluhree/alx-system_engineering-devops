@@ -17,3 +17,7 @@ Value: rm * </br>
 [Task 3: If the path be beautiful, let us not ask where it leads](): A script that counts the number of directories in the PATH.</br> 
 [Task 4: Global variables](): A script that lists environment variables.</br>
 [Task 5: Local variables](): A script that lists all local variables and environment variables, and functions.</br>
+[Task 6: Local variable](): A script that creates a new local variable.</br>
+
+Name: BEST
+Value: School </br>
