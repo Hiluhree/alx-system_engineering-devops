@@ -22,3 +22,4 @@ Value: rm * </br>
 Name: BEST
 Value: School </br>
 [Task 7: Global variable](): A script that creates a new global variable.</br>
+[Task 8: Every addition to true knowledge is an addition to human power](): A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.</br>
