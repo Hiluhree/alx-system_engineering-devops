@@ -21,3 +21,4 @@ Value: rm * </br>
 
 Name: BEST
 Value: School </br>
+[Task 7: Global variable](): A script that creates a new global variable.</br>
