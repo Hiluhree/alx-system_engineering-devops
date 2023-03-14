@@ -26,3 +26,7 @@ Value: School </br>
 [Task 9: Divide and rule](): A script that prints the result of POWER divided by DIVIDE, followed by a new line.
 
 POWER and DIVIDE are environment variables </br>
+[Task 10: Love is anterior to life, posterior to death, initial of creation, and the exponent of breath](): A script that displays the result of BREATH to the power LOVE </br>
+
+BREATH and LOVE are environment variables
+The script should display the result, followed by a new line </br>
