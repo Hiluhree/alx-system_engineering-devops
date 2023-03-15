@@ -2,7 +2,7 @@
 ## Resources
 + [Permissions](http://linuxcommand.org/lc3_lts0090.php)
 
-##Tasks
+## Tasks
 
 Task 0: [My name is Betty](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x01-shell_permissions/0-iam_betty): A script that switches the current user to the user betty. </br>
 Task 1: [Who am I](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x01-shell_permissions/1-who_am_i): A script that prints the effective username of the current user.</br>
