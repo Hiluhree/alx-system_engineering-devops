@@ -41,35 +41,35 @@ Task 13: [Being unique is better than being perfect](https://github.com/Hiluhree
 Task 14: [It must be in that file](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/14-findthatword): A script to Display lines containing the pattern “root” from the file /etc/passwd.</br>
 Task 15: [Count that word](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/15-countthatword): A script to Display the number of lines that contain the pattern “bin” in the file /etc/passwd</br>
 Task 16: [What's next?](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/16-whatsnext): A script  Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.</br>
-	- B : This shows the lines before your pattern match.
-	- A : This shows the lines after your pattern match.
+	- B : This shows the lines before your pattern match.</br>
+	- A : This shows the lines after your pattern match.</br>
 Task 17: [I hate bins](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/17-hidethisword): A script Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.</br>
 Task 18: [Letters only please](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/18-letteronly): A script to Display all lines of the file /etc/ssh/sshd_config starting with a letter.
-- Include capital letters as well </br>
+	- Include capital letters as well </br>
 Task 19: [A to Z](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/19-AZ): A script to Replace all characters A and c from input to Z and e respectively.</br>
 Task 20: [Without C, you would live in hiago](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/20-hiago): A script that removes all letters c and C from input.</br>
 Task 21: [esreveR](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/21-reverse): A script that reverse its input</br>
 Task 22: [DJ Cut Killer](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/22-users_and_homes): A script that displays all users and their home directories, sorted by users.</br>
- - Based on the the /etc/passwd file </br>
+	- Based on the the /etc/passwd file </br>
 Task 23: [Empty casks make the most noise](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/100-empty_casks): A command that finds all empty files and directories in the current directory and all sub-directories.</br>
 
-- Only the names of the files and directories should be displayed (not the entire path)
-- Hidden files should be listed
-- One file name per line
-- The listing should end with a new line
-- You are not allowed to use basename, grep, egrep, fgrep or rgrep </br>
+	- Only the names of the files and directories should be displayed (not the entire path)
+	- Hidden files should be listed
+	- One file name per line
+	- The listing should end with a new line
+	- You are not allowed to use basename, grep, egrep, fgrep or rgrep </br>
 Task 24: [A gif is worth ten thousand words](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/101-gifs): A script that lists all the files with a .gif extension in the current directory and all its sub-directories.</br>
-- Hidden files should be listed
-- Only regular files (not directories) should be listed
-- The names of the files should be displayed without their extensions
-- The files should be sorted by byte values, but case-insensitive (file aaa should be listed before file bbb, file .b should be listed before file a, and file Rona should be listed after file jay)
-- One file name per line
-- The listing should end with a new line
-- You are not allowed to use basename, grep, egrep, fgrep or rgrep</br>
+	- Hidden files should be listed
+	- Only regular files (not directories) should be listed
+	- The names of the files should be displayed without their extensions
+	- The files should be sorted by byte values, but case-insensitive (file aaa should be listed before file bbb, file .b should be listed before file a, and file Rona should be listed after file jay)
+	- One file name per line
+	- The listing should end with a new line
+	- You are not allowed to use basename, grep, egrep, fgrep or rgrep</br>
 Task 25: [Acrostic](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/102-acrostic): A script that decodes acrostics that use the first letter of each line.
-- What to decode: *An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval. [Read more](https://en.wikipedia.org/wiki/Acrostic)*.
-- The ‘**decoded**’ message has to end with a new line
-- You are not allowed to use grep, egrep, fgrep or rgrep </br>
+	- What to decode: *An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval. [Read more](https://en.wikipedia.org/wiki/Acrostic)*.
+	- The ‘**decoded**’ message has to end with a new line
+	- You are not allowed to use grep, egrep, fgrep or rgrep </br>
 Task 26: [The biggest fan](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x02-shell_redirections/103-the_biggest_fan):  A script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
-- Order by number of requests, most active host or IP at the top
-- You are not allowed to use grep, egrep, fgrep or rgrep
+	- Order by number of requests, most active host or IP at the top
+	- You are not allowed to use grep, egrep, fgrep or rgrep
