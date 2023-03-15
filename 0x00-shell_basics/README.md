@@ -36,5 +36,5 @@ Task 18: [Life is a series of commas, not periods](https://github.com/Hiluhree/a
             3. The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning
             4. Only digits and letters are used to sort; Digits should come first
             5. You can assume that all the files we will test with will have at least one letter or one digit
-            6. The listing should end with a new line </br>
+            6. The listing should end with a new line.
 Task 19: [File type: School](https://github.com/Hiluhree/alx-system_engineering-devops/blob/master/0x00-shell_basics/school): A script to Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.</br>
